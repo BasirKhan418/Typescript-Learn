@@ -107,6 +107,6 @@
     
                          /* Skip type checking all .d.ts files. */
   },
-  "include": ["src/**/*", "tests/**/*", "interfaces.ts"],
+  "include": ["src/**/*"],
   
 }
